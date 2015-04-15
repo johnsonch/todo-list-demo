@@ -6,6 +6,7 @@ To use this application:
 * cd into the directory
 * install gems```bundle install --path=vendor/bundle```
 * create database ```bundle exec rake db:migrate```
+* After starting the application up, you'll need to go to /categories and add a category or two to get started
 
 
 
